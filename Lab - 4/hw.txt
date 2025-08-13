@@ -1,0 +1,5 @@
+day : Wednesday 
+date : 13-08-2025
+month : August
+year : 2025 
+weather : cloudy
